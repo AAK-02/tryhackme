@@ -11,5 +11,5 @@ after 10 attempts we got a captcha validator
 
 ![Screenshot from 2024-12-04 12-19-59](https://github.com/user-attachments/assets/86878d9a-8bac-45f5-9b2d-67261a768c57)
 
-so we need to bypass this captcha to brute force the login page\n
+so we need to bypass this captcha to brute force the login page
 so use a python script to bypass this captcha 
