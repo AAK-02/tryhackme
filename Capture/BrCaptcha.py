@@ -37,10 +37,10 @@ def BrCaptcha(session,url):
 
     url_login=url+"/login"
     # get password and username 
-    with open("/home/abdul/Desktop/tryhackme/Capture/usernames.txt","r") as username:
+    with open("usernames.txt","r") as username:
         usernameList=username.readlines()
         username.close()
-    with open("/home/abdul/Desktop/tryhackme/Capture/passwords.txt","r") as password:
+    with open("passwords.txt","r") as password:
         passwordlist=password.readlines()
         password.close()
     
