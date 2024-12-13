@@ -35,3 +35,7 @@
 
 
 --> after a few seconds we got the flag
+
+![Screenshot from 2024-12-13 17-59-28](https://github.com/user-attachments/assets/2cf0ba0f-2674-4f6a-8439-1eea1eace392)
+
+--> you need to decode the flag to submitted
